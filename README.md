@@ -1,3 +1,21 @@
-# Probability Calculator
+## FFC Scientific Computing with Python Project - Probability Calculator
 
-This is the boilerplate for the Probability Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator
+### Info
+This is the completed project for FFC Scientific Computing with Python course.
+
+Please check out 
+<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator" style="color: orange;">freeCodeCamp.com</a> for more details.
+
+### Usege:
+
+#### Python:
+```
+python3 main.py
+```
+
+#### TypeScript:
+```
+bun main.ts
+```
+
+
